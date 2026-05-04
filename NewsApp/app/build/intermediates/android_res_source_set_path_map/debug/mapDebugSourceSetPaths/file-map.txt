@@ -1,0 +1,47 @@
+com.example.newsapp-lifecycle-runtime-2.6.2-0 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\03e6cb268e4e2a6be7c7d057d0cc6dae\workspace\transformed\lifecycle-runtime-2.6.2\res
+com.example.newsapp-cardview-1.0.0-1 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\1e25ab6b44600ba25c1483e8b04f8583\workspace\transformed\cardview-1.0.0\res
+com.example.newsapp-credentials-1.2.0-rc01-2 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\1fd1d4752a0e6044f61cb32c0def1d60\workspace\transformed\credentials-1.2.0-rc01\res
+com.example.newsapp-play-services-base-18.0.1-3 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\235f453cf6d1a3e17f7c77faf9f6d861\workspace\transformed\play-services-base-18.0.1\res
+com.example.newsapp-activity-1.13.0-4 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\2394bcd330acd836a39e9630f04f3ef6\workspace\transformed\activity-1.13.0\res
+com.example.newsapp-coordinatorlayout-1.1.0-5 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\2c69f89299ecc8a095f380ac40d2cf81\workspace\transformed\coordinatorlayout-1.1.0\res
+com.example.newsapp-credentials-play-services-auth-1.2.0-rc01-6 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\31177eef1c37ba7236c8e2507edbcdc7\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.example.newsapp-viewpager2-1.0.0-7 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\327f3fcefaa1f0ccf6685558e3d03065\workspace\transformed\viewpager2-1.0.0\res
+com.example.newsapp-emoji2-1.3.0-8 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\32da9fa38bf2dec67776240f570ec44c\workspace\transformed\emoji2-1.3.0\res
+com.example.newsapp-graphics-shapes-release-9 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\3ca0c67b4c9004ab6b7126eb0ae64986\workspace\transformed\graphics-shapes-release\res
+com.example.newsapp-material-1.13.0-10 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\414deeb58dd5e7953edf46d1bf36499b\workspace\transformed\material-1.13.0\res
+com.example.newsapp-profileinstaller-1.4.0-11 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\47f80fcd115f3a3d92f7d3eb7b7c2187\workspace\transformed\profileinstaller-1.4.0\res
+com.example.newsapp-firebase-common-21.0.0-12 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\492f25c648bc4444a80ea687629c03e2\workspace\transformed\firebase-common-21.0.0\res
+com.example.newsapp-constraintlayout-2.2.1-13 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\4eadd9325e8efde27c55173285c94784\workspace\transformed\constraintlayout-2.2.1\res
+com.example.newsapp-core-1.18.0-14 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\53798cfcf30545eec996a9ffb1c1e7c6\workspace\transformed\core-1.18.0\res
+com.example.newsapp-emoji2-views-helper-1.3.0-15 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\59c1e7702ba79d275922b71bba632429\workspace\transformed\emoji2-views-helper-1.3.0\res
+com.example.newsapp-drawerlayout-1.1.1-16 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\63d1424df4bbcbcbf176cf9516d7f92f\workspace\transformed\drawerlayout-1.1.1\res
+com.example.newsapp-recyclerview-1.2.1-17 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\6e5a323d8ccb4efa7c66e1c3b8c783f3\workspace\transformed\recyclerview-1.2.1\res
+com.example.newsapp-play-services-basement-18.3.0-18 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\6f9927080cf0c4dd64717caa29f31047\workspace\transformed\play-services-basement-18.3.0\res
+com.example.newsapp-lifecycle-livedata-2.6.2-19 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\7c9995edb395f1b0d9f1a44f7a67feed\workspace\transformed\lifecycle-livedata-2.6.2\res
+com.example.newsapp-tracing-1.2.0-20 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\7cafd51c1d2d645b462c2e505eb8137f\workspace\transformed\tracing-1.2.0\res
+com.example.newsapp-transition-1.5.0-21 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\8051175534f220e4fe50a5af6f448b4e\workspace\transformed\transition-1.5.0\res
+com.example.newsapp-appcompat-resources-1.7.1-22 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\8b058e58e025c1b980002c0c1c7f8bd1\workspace\transformed\appcompat-resources-1.7.1\res
+com.example.newsapp-fragment-1.5.4-23 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\8d61333c4d0298396d851d9d2623f29e\workspace\transformed\fragment-1.5.4\res
+com.example.newsapp-core-runtime-2.2.0-24 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\92e11121f09c0212c3b28e716ce283fb\workspace\transformed\core-runtime-2.2.0\res
+com.example.newsapp-appcompat-1.7.1-25 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\9f25d0012afb749a743c16b217678c69\workspace\transformed\appcompat-1.7.1\res
+com.example.newsapp-lifecycle-process-2.6.2-26 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\9f51403a6dbe0db36707a9fa6805d524\workspace\transformed\lifecycle-process-2.6.2\res
+com.example.newsapp-navigationevent-27 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\a59b24c7741732fa24ec654634480c1e\workspace\transformed\navigationevent\res
+com.example.newsapp-lifecycle-livedata-core-2.6.2-28 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\a6a5307c7b975bc44e2298c1d17b18d2\workspace\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.newsapp-startup-runtime-1.1.1-29 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\a7ab397405a276f6c56842b0134e2965\workspace\transformed\startup-runtime-1.1.1\res
+com.example.newsapp-annotation-experimental-1.4.1-30 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\aad9199528b097e7f849f533d1534ad5\workspace\transformed\annotation-experimental-1.4.1\res
+com.example.newsapp-savedstate-1.2.1-31 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\c7506e547a5198be62704dda54b80c24\workspace\transformed\savedstate-1.2.1\res
+com.example.newsapp-core-viewtree-1.0.0-32 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\cbb277410f750195c7b04ba61e0bb2a9\workspace\transformed\core-viewtree-1.0.0\res
+com.example.newsapp-dynamicanimation-1.1.0-33 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\cdf93344786d544b2d4363de28b417eb\workspace\transformed\dynamicanimation-1.1.0\res
+com.example.newsapp-core-ktx-1.18.0-34 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\d26cb36b42c9c9a4675343aa2c0e2ba5\workspace\transformed\core-ktx-1.18.0\res
+com.example.newsapp-play-services-auth-20.7.0-35 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\dd6600b2e1edef38471acb1ee3548b13\workspace\transformed\play-services-auth-20.7.0\res
+com.example.newsapp-browser-1.4.0-36 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\e18d0507955b4809d76ebf0b5caa3fa7\workspace\transformed\browser-1.4.0\res
+com.example.newsapp-lifecycle-viewmodel-savedstate-2.6.2-37 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\eeeabb59f05ddb29160479b2b8f2d47e\workspace\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.newsapp-lifecycle-viewmodel-2.6.2-38 C:\Users\Rajvardhan Ulape\.gradle\caches\9.1.0\transforms\f296716f89751683abd9ba4b690eaee2\workspace\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.newsapp-pngs-39 E:\NewsApp\app\build\generated\res\pngs\debug
+com.example.newsapp-res-40 E:\NewsApp\app\build\generated\res\processDebugGoogleServices
+com.example.newsapp-updated_navigation_xml-41 E:\NewsApp\app\build\generated\updated_navigation_xml\debug
+com.example.newsapp-packageDebugResources-42 E:\NewsApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.newsapp-packageDebugResources-43 E:\NewsApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.newsapp-debug-44 E:\NewsApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.newsapp-debug-45 E:\NewsApp\app\src\debug\res
+com.example.newsapp-main-46 E:\NewsApp\app\src\main\res
